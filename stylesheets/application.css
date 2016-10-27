@@ -96,7 +96,7 @@ h2, h3, h4 { border-bottom: 0; }
 #main-menu ul { *zoom: 1; margin-top: 0; padding-left: 0; background-color: transparent !important; }
 #main-menu ul:before, #main-menu ul:after { display: table; content: ""; line-height: 0; }
 #main-menu ul:after { clear: both; }
-#main-menu ul .menu-children { background: #fff !important; border: 1px solid #EAEAEA; border-bottom-color: #CACACA; z-index: 11; }
+#main-menu ul .menu-children { background: #fff !important; border: 1px solid #EAEAEA; border-bottom-color: #CACACA; z-index: 45; }
 #main-menu ul .menu-children li a { border-bottom: none; }
 #main-menu ul .menu-children li a:hover { color: #4183C4; background: none; border-bottom: none; }
 #main-menu ul li { margin: 0; padding: 0; }
